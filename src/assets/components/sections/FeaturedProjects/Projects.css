@@ -1,0 +1,22 @@
+.projects{
+
+padding:140px 0;
+
+background:var(--color-background);
+
+}
+
+.projects .section-header{
+
+max-width:1200px;
+
+margin:0 auto 60px;
+
+text-align:center;
+
+}
+
+.section-header .content{
+      font-size:2.5rem;
+    margin-bottom:100px;
+}
