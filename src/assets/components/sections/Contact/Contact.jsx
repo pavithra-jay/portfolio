@@ -118,7 +118,7 @@ const Contact = () => {
               <div>
                 <h4>Email</h4>
 
-                <p>Fee free to contact!</p>
+                <p>Feel free to contact!</p>
               </div>
             </a>
 
